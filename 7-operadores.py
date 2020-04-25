@@ -52,6 +52,6 @@ print(ejemplo8)
 print("\n")
  
  # el resto de los operadores mayoy e igual y menor e igual funciionan muy parecido solo que incluye
- # le propiedad de cerradura de los numeros.
+ # la propiedad de cerradura de los numeros.
 
 
